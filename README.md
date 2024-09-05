@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **RAG**
 
-- 👨‍💻 All of my projects are available at [https://bethlehem-getachew.onrender.com/](https://bethlehem-getachew.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://bethlehem-getachew.onrender.com/](https://bethlehem-getachew-zssr.onrender.com)
 
-- 📝 I regularly write articles on [https://bethlehem-getachew.onrender.com/](https://bethlehem-getachew.onrender.com/)
+- 📝 I regularly write articles on [https://bethlehem-getachew.onrender.com/](https://bethlehem-getachew-zssr.onrender.com)
 
 - 💬 Ask me about **python, C#**
 
 - 📫 How to reach me **bettygetachew56@gmail.com**
 
-- 📄 Know about my experiences [https://bethlehem-getachew.onrender.com/](https://bethlehem-getachew.onrender.com/)
+- 📄 Know about my experiences [https://bethlehem-getachew.onrender.com/](https://bethlehem-getachew-zssr.onrender.com)
 
 - ⚡ Fun fact **The first prototype of a computer-like device was partially made of wood! Charles Babbage's early models of the Difference Engine, a precursor to modern computers, sometimes used wooden components. While the final machines were metal, these wooden prototypes laid the groundwork for the digital world we live in today! 🌳💻**
 
